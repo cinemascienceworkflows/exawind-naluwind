@@ -1,4 +1,4 @@
-![development](https://pantheonscience.github.io/states/development.png)
+![release](https://pantheonscience.github.io/states/release.png)
 
 # ExaWind-NaluWind workflow with post-processing
 
